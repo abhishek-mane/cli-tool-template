@@ -9,7 +9,7 @@ package config
 
 // Modify this configuation as needed
 var config = map[string]string{
-	"cli.name":      "Geon",
+	"cli.name":      "geon",
 	"cli.usage":     "Golang CLI Application",
 	"cli.version":   "1.0.0",
 	"cli.copyright": "Abhishek Mane",
