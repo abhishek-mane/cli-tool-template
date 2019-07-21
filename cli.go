@@ -28,6 +28,9 @@ func init() {
 	// global flags
 	app.Flags = []cli.Flag{}
 
+	// auto-completions
+	app.EnableBashCompletion = true
+
 	// register commands
 	app.Commands = append(app.Commands, git.New())
 	app.Commands = append(app.Commands, docker.New())
