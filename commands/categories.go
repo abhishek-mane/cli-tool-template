@@ -1,13 +1,11 @@
 package commands
 
-type category struct {
+// Category :
+var Category = struct {
 	General string
 	Git     string
 	Docker  string
-}
-
-// Category :
-var Category = category{
+}{
 	General: "general",
 	Git:     "git",
 	Docker:  "docker",
