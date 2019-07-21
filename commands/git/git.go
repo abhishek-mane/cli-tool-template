@@ -40,7 +40,7 @@ func New() cli.Command {
 				Aliases: []string{"p"},
 				Usage:   "Pulls the given repo",
 				Action: func(c *cli.Context) error {
-					return clone(c)
+					return pull(c)
 				},
 			},
 		},
