@@ -1,2 +1,4 @@
+github.com/kyokomi/emoji v2.1.0+incompatible h1:+DYU2RgpI6OHG4oQkM5KlqD3Wd3UPEsX8jamTo1Mp6o=
+github.com/kyokomi/emoji v2.1.0+incompatible/go.mod h1:mZ6aGCD7yk8j6QY6KICwnZ2pxoszVseX1DNoGtU2tBA=
 github.com/urfave/cli v1.20.0 h1:fDqGv3UG/4jbVl/QkFwEdddtEDjh/5Ov6X+0B/3bPaw=
 github.com/urfave/cli v1.20.0/go.mod h1:70zkFmudgCuE/ngEzBv17Jvp/497gISqfk5gWijbERA=
